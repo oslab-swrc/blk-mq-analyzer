@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Copyright (c) 2020 Kookmin University
+# SPDX-License-Identifier: MIT
+
 import os
 
 
